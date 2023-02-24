@@ -55,7 +55,7 @@ function game() {
     } else if (computerScore < playerScore) {
         console.log("Yoy win these 5 rounds!")
     } else {
-        console.log("It's a tie!")
+        console.log("It's a tiee!")
     }
 }
 
